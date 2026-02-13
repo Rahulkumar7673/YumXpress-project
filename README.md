@@ -81,7 +81,7 @@ YumXpress solves these problems by:
 
 ## 📸 Screenshots
 
-> Add application screenshots here (Login Page, Order Page, Admin Panel, Bill Generation)
+> ![Login](screenshots/login.png)
 
 ---
 
