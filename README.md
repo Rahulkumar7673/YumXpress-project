@@ -81,7 +81,14 @@ YumXpress solves these problems by:
 
 ## 📸 Screenshots
 
-> ![Login](screenshots/login.png)
+>### Login Page
+![Login Page](login.png)
+
+### Order Page
+![Order Page](order.png)
+
+### Bill Generation
+![Bill Page](bill.png)
 
 ---
 
